@@ -8,6 +8,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - One way data binding (interpolating)
 - CLI, directives ng-if, ng-for, ngTemplate
 - Styling and Bootstrap
+- @Input, @Output decorators
+- Services and DI basics
+- Forms Module, ngModel
 
 ## Development server
 
